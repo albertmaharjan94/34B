@@ -1,5 +1,7 @@
+/Users/digitech/NetBeansProjects/Led34B/src/main/java/com/groupb/led34b/view/RegisterScreen.java
 /Users/digitech/NetBeansProjects/Led34B/src/main/java/com/groupb/led34b/database/DatabaseConnection.java
 /Users/digitech/NetBeansProjects/Led34B/src/main/java/com/groupb/led34b/Led34B.java
 /Users/digitech/NetBeansProjects/Led34B/src/main/java/com/groupb/led34b/model/RegisterModel.java
 /Users/digitech/NetBeansProjects/Led34B/src/main/java/com/groupb/led34b/model/LoginModel.java
 /Users/digitech/NetBeansProjects/Led34B/src/main/java/com/groupb/led34b/database/MySqlConnection.java
+/Users/digitech/NetBeansProjects/Led34B/src/main/java/com/groupb/led34b/dao/AuthDAO.java
